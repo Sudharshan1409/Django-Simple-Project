@@ -1,10 +1,12 @@
-<h1>run command</h1>
+<h1>Run Command</h1>
 <ul>
-<li>pip3 install requirement.txt (for linux)</li>
-<li>pip install requirement.txt (for windows)</li>
+<li>pip3 install requirement.txt (for Linux)</li>
+<li>pip install requirement.txt (for Windows)</li>
 </ul>
-and then run
---> python3 manage.py migrate
---> python3 manage.py makemigrations basic_app
---> python3 manage.py migrate
---> python3 manage.py runserver
+<h1>After that Run</h1>
+<ul>
+<li>python3 manage.py migrate</li>
+<li>python3 manage.py makemigrations basic_app</li>
+<li>python3 manage.py migrate</li>
+<li>python3 manage.py runserver</li>
+</ul>
